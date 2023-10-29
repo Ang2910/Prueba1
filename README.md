@@ -7,7 +7,7 @@
 
   <title>Happy birthday project</title>
   
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="Style.css">
 </head>
 
 <body> 
