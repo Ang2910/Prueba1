@@ -37,7 +37,7 @@
   </div>
 </div>
 </div>
-<footer><center>Creado & Diseñado por <a href="https://praweensoni.netlify.app/"> Angel Antonio Rodriguez Lopez </a></center>
+<footer><center>Creado & Diseñado por Angel Antonio Rodriguez Lopez </center>
 </footer>
   <script src="main.js"></script> 
 </body>
